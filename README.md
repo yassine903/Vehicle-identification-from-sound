@@ -1,2 +1,2 @@
 # Vehicle-identification-from-sound
-Application desktop that identify the sounds type of the vehicle from sound (car or bus, motorcycle ….) By using deep learning model to predict the sound exactly LSTM (RNN) and TKinter  to build interface of application desktop.
+A desktop application that identifies vehicle types (e.g., car, bus, motorcycle) based on their sound. Utilized a deep learning model with LSTM (RNN) for precise sound prediction and employed TKinter for building the application's user interface.
